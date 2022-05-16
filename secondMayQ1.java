@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //make a java program to determine sunny numbers(this re numbers when you add 1 to it makes the number a square number)
-public class SecondMayQ1 {
+public class secondMayQ1 {
     public static void main(String[] args) {
         System.out.print("Input number to check weather it is a sunny number: ");
         int number = new Scanner(System.in).nextInt();
